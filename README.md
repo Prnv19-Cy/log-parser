@@ -19,3 +19,6 @@ This script requires Python and the following Python libraries:
 To install the required dependencies, you can use the following command:
 
 pip install -r requirements.txt
+
+# How to execute (Note: provide file path .log file or keep them in same directriy/path)
+  -> python fortigate_log_parser.py -i fortilog.log    (Click Enter <-")
