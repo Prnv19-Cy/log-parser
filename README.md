@@ -4,7 +4,9 @@ This Python script is designed to parse FortiGate logs, extract key information 
 
 ## Features
 -> Parse FortiGate log files.
+
 -> Extract key information such as timestamps, IP addresses, session details, actions, and more.
+
 -> Export the parsed data to an Excel file for easy analysis.
 
 ## Requirements
